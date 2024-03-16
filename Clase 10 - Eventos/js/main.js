@@ -102,7 +102,7 @@ const agregarSubmit = document.querySelector("#agregar-submit");
 agregarForm.addEventListener("submit", (e) => {
     e.preventDefault();
 
-    if (agregarInput.value !== "") {
+    if (agregarInput.value.trim() !== "") {
 
         const li = document.createElement("li");
         li.classList.add("lista-item");

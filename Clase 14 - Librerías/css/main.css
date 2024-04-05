@@ -1,0 +1,12 @@
+* {
+    font-family: system-ui, sans-serif;
+}
+
+button {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.alerta-1 .swal2-title {
+    color: red;
+}

@@ -95,7 +95,6 @@ const alertaSubmit = document.querySelector("#alerta-submit");
 const agregarLista = document.querySelector("#agregar");
 const agregarForm = document.querySelector("#agregar-form");
 const agregarInput = document.querySelector("#agregar-input");
-const agregarSubmit = document.querySelector("#agregar-submit");
 
 
 

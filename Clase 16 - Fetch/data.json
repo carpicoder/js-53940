@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Carpi",
+        "edad": 28,
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "Gian",
+        "edad": 28,
+        "pais": "Rosario"
+    },
+    {
+        "nombre": "Milton",
+        "edad": 26,
+        "pais": "Argentino"
+    }
+]

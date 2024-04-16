@@ -1,0 +1,26 @@
+[
+    {
+        "id": "abrigo01",
+        "titulo": "Abrigo 01",
+        "precio": 3000,
+        "img": "./img/01.jpg"
+    },
+    {
+        "id": "abrigo02",
+        "titulo": "Pantalón 02",
+        "precio": 3000,
+        "img": "./img/02.jpg"
+    },
+    {
+        "id": "abrigo03",
+        "titulo": "Camisa 03",
+        "precio": 3000,
+        "img": "./img/03.jpg"
+    },
+    {
+        "id": "abrigo04",
+        "titulo": "Camiseta 04",
+        "precio": 3000,
+        "img": "./img/04.jpg"
+    }
+]
